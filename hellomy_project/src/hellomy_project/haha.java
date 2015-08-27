@@ -6,6 +6,8 @@ public class haha {
 	
 		System.out.println("서섭운 똑바로해라");
 		System.out.println("똑바로 해라");
-
+		
+		
+		System.out.println("1");
 	}
 }
