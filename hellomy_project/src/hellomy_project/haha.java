@@ -2,6 +2,7 @@ package hellomy_project;
 
 public class haha {
 	public static void main(String[] args) {
-		System.out.println("³ëÀ±Å¹¾¾");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½Å¹ï¿½ï¿½");
+		System.out.println("ì„œì„­ìš´ ë˜‘ë°”ë¡œí•´ë¼");
 	}
 }
